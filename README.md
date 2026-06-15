@@ -28,5 +28,5 @@ Iare proud to have built a fully functioning, locally hosted machine learning ap
 # What I learned
 I learned the fundamentals of visual interface design with PyQt6, asynchronous programming in Python, how local open-source LLMs communicate via local API payloads, and how to elegantly debug server timeouts.
 
-🔮 What's next for AccessiRead AI
-Iplan to introduce system-wide keyboard global hotkeys (e.g., Ctrl + Shift + A) so students don't even have to open the window to simplify text, add Text-to-Speech (TTS) capabilities to read the simplified points aloud, and build a history tab to save previously summarized materials for easy studying later.
+What's next for AccessiRead AI
+I plan to introduce system-wide keyboard global hotkeys (e.g., Ctrl + Shift + A) so students don't even have to open the window to simplify text, add Text-to-Speech (TTS) capabilities to read the simplified points aloud, and build a history tab to save previously summarized materials for easy studying later.
