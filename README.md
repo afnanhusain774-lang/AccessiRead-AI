@@ -19,7 +19,7 @@ Asynchronous Multi-threading: Implemented using QThread and pyqtSignal workers t
 
 Automation: Added sub-process management to automatically detect and safely launch the background Ollama server if it isn't already active.
 
-# Challenges ! ran into
+# Challenges I ran into
 As a solo creator learning to coordinate desktop apps and AI, managing synchronous delays was a major hurdle. Initially, when the AI was thinking, the entire desktop interface would lock up and throw "(Not Responding)" errors. Learning to break the architecture apart into multithreaded background workers so the window stays active and movable was a massive milestone. Ialso engineered patient, loop-based exception handling to prevent application crashes while waiting for the local AI model to boot up.
 
 # Accomplishments that I proud of
